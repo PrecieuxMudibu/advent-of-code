@@ -128,5 +128,7 @@
 // console.log(result.length);
 // // expected output: Array ["exuberant", "destruction", "present"]
 
-let test =[]
-if(test.length===0) console.log('TES')
+let test =[ 3, 3, 5 ]
+for (let i=test.length-1; i>=0;i--){
+    console.log(test[i])
+}
