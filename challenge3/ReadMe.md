@@ -1,4 +1,4 @@
-## --- Jour 3 : Réorganisation du sac à dos ---
+## Jour 3 : Réorganisation du sac à dos
 Un elfe a la tâche importante de charger tous les sacs à dos avec des fournitures pour le voyage dans la jungle . Malheureusement, cet elfe n'a pas tout à fait suivi les instructions d'emballage, et donc quelques articles doivent maintenant être réarrangés.
 
 Chaque sac à dos a deux grands compartiments . Tous les articles d'un type donné sont destinés à entrer exactement dans l'un des deux compartiments. L'elfe qui a fait l'emballage n'a pas suivi cette règle pour exactement un type d'objet par sac à dos.
